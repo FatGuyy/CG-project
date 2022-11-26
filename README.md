@@ -1,2 +1,2 @@
-## CG-project
-# CG project of SE sppu
+# CG-project
+## CG project of SE sppu
